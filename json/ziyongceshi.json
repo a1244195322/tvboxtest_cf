@@ -8,8 +8,8 @@
       "type": 0,
       "url": "https://dimaston.github.io/live.m3u",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "{date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ],
   "sites": [
