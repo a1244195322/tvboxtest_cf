@@ -17,7 +17,6 @@ dns:
 proxies:
   - {name: 🇭🇰 香港|@ripaojiedian, server: 183.240.255.75, port: 11001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 94c4e6e0-85b4-4740-81c2-cc7d1afd3c02, tfo: false}
   - {name: 🇭🇰 香港2|@ripaojiedian, server: 183.236.51.23, port: 56601, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇭🇰 香港3|@ripaojiedian, server: 120.241.45.50, port: 15002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: U4W5JSFDBCGUTTWN, tfo: false}
   - {name: 🇭🇰 香港4|@ripaojiedian, server: 103.224.80.100, port: 45840, client-fingerprint: chrome, type: vmess, uuid: daf8d2e7-d4e2-42d9-871f-6e287da72dd6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
   - {name: 🇭🇰 香港5|@ripaojiedian, server: 143.92.42.65, port: 2902, client-fingerprint: chrome, type: vmess, uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
   - {name: 🇹🇼 台湾|@ripaojiedian, server: svip.88de.hongxingdl.vip, port: 18147, client-fingerprint: chrome, type: trojan, password: 9cf656d0-6283-4a69-a64c-3806529ba2cd, sni: mm2.redapricotcloud.com, skip-cert-verify: false}
